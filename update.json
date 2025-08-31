@@ -2,7 +2,7 @@
   "latestVersion": "1.0.1",
   "versionCode": 2,
   "minimumSupportedVersion": "1.0.0",
-  "updateAvailable": true,
+  "updateAvailable": false,
   "mandatory": false,
   "downloadUrl": "https://github.com/anandssm/koyal-music/releases/download/v1.0.1/koyal-music-v1.0.1.apk",
   "releaseDate": "2025-01-19T12:00:00Z",
