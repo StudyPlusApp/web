@@ -1,0 +1,33 @@
+{
+  "latestVersion": "1.0.1",
+  "versionCode": 2,
+  "minimumSupportedVersion": "1.0.0",
+  "updateAvailable": false,
+  "mandatory": false,
+  "downloadUrls": {
+    "android": "https://github.com/anandssm/koyal-music/releases/download/v1.0.1/koyal-music-v1.0.1.apk",
+    "windows": "https://github.com/anandssm/koyal-music/releases/download/v1.0.1/koyal-music-v1.0.1.msi"
+  },
+  "releaseDate": "2025-01-19T12:00:00Z",
+  "updateLog": [
+    "🎵 Added new equalizer presets for better audio experience",
+    "🐛 Fixed playback issues with some songs",
+    "⚡ Improved app performance and reduced memory usage",
+    "🎨 Updated UI components with modern design"
+  ],
+  "features": [
+    "Enhanced audio quality with new equalizer settings",
+    "Better search functionality with improved filters",
+    "New dark mode optimizations",
+    "Added support for more audio formats"
+  ],
+  "bugFixes": [
+    "Fixed crash on Android 14 devices",
+    "Resolved download queue issues",
+    "Fixed lyrics synchronization problems",
+    "Corrected notification display on some devices"
+  ],
+  "size": "25.6 MB",
+  "checksum": "sha256:abcd1234567890abcdef1234567890abcdef1234567890abcdef1234567890ab",
+  "releaseNotes": "This update brings significant improvements to the music playback experience with new features, bug fixes, and performance enhancements. We've added new equalizer presets, improved search functionality, and resolved several issues reported by our users."
+}
