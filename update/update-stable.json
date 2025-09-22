@@ -6,7 +6,7 @@
   "mandatory": false,
   "downloadUrls": {
     "android": "https://raw.githubusercontent.com/StudyPlusApp/web/main/update/app-arm64-v8a-release.apk",
-    "windows": "https://github.com/anandssm/koyal-music/releases/download/v1.0.1/koyal-music-v1.0.1.msi"
+    "windows": "https://raw.githubusercontent.com/StudyPlusApp/web/main/update/koyal_music.msix"
   },
   "releaseDate": "2025-01-19T12:00:00Z",
   "updateLog": [
